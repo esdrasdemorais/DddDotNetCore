@@ -1,0 +1,12 @@
+/home/esdras/Desktop/Esdras/DddDotNetCore/obj/Debug/netcoreapp3.1/DddDotNetCore.csprojAssemblyReference.cache
+/home/esdras/Desktop/Esdras/DddDotNetCore/obj/Debug/netcoreapp3.1/DddDotNetCore.csproj.CoreCompileInputs.cache
+/home/esdras/Desktop/Esdras/DddDotNetCore/obj/Debug/netcoreapp3.1/DddDotNetCore.AssemblyInfoInputs.cache
+/home/esdras/Desktop/Esdras/DddDotNetCore/obj/Debug/netcoreapp3.1/DddDotNetCore.AssemblyInfo.cs
+/home/esdras/Desktop/Esdras/DddDotNetCore/bin/Debug/netcoreapp3.1/DddDotNetCore.deps.json
+/home/esdras/Desktop/Esdras/DddDotNetCore/bin/Debug/netcoreapp3.1/DddDotNetCore.runtimeconfig.json
+/home/esdras/Desktop/Esdras/DddDotNetCore/bin/Debug/netcoreapp3.1/DddDotNetCore.runtimeconfig.dev.json
+/home/esdras/Desktop/Esdras/DddDotNetCore/bin/Debug/netcoreapp3.1/DddDotNetCore.dll
+/home/esdras/Desktop/Esdras/DddDotNetCore/bin/Debug/netcoreapp3.1/DddDotNetCore.pdb
+/home/esdras/Desktop/Esdras/DddDotNetCore/obj/Debug/netcoreapp3.1/DddDotNetCore.dll
+/home/esdras/Desktop/Esdras/DddDotNetCore/obj/Debug/netcoreapp3.1/DddDotNetCore.pdb
+/home/esdras/Desktop/Esdras/DddDotNetCore/obj/Debug/netcoreapp3.1/DddDotNetCore.genruntimeconfig.cache

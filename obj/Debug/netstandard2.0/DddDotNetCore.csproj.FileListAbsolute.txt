@@ -1,0 +1,3 @@
+/home/esdras/Desktop/Esdras/DddDotNetCore/obj/Debug/netstandard2.0/DddDotNetCore.csprojAssemblyReference.cache
+/home/esdras/Desktop/Esdras/DddDotNetCore/obj/Debug/netstandard2.0/DddDotNetCore.AssemblyInfoInputs.cache
+/home/esdras/Desktop/Esdras/DddDotNetCore/obj/Debug/netstandard2.0/DddDotNetCore.AssemblyInfo.cs
